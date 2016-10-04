@@ -1,0 +1,39 @@
+.left{
+	float: left;
+	display: inline-block;
+	padding-left: 20px;
+}
+.center{
+	display: inline-block;
+	padding: 25px 0 0 50px;
+    width: 60%;
+}
+
+.right{
+	float: right;
+	display: inline-block;
+	padding: 25px 10px 0 0;
+}
+
+
+#burger_menu{
+	height: 15px;
+}
+
+#youtube_logo{
+	height: 80px;
+}
+
+#search_bar{
+	width: 500px;
+}
+
+#search_button{
+	height:18px;
+}
+
+#avatar{
+	height: 30px;
+	border-radius: 50%;
+
+}
