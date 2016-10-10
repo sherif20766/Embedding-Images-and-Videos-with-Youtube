@@ -1,14 +1,16 @@
-.page-header{
-
+.main{
+	display: block;
 }
 
 .left{
 	float: left;
 	display: inline-block;
 	padding-left: 20px;
+
 }
 .center{
 	display: inline-block;
+	padding-left: 100px;
 	
 }
 
@@ -46,7 +48,9 @@
 	background: #ebebe0
 }
 
-iframe{
-	padding-top: 20px;
+.main{
+	padding: 20px;
+	margin: auto;
+	width: 50%;
 	
 }
